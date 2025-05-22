@@ -1,0 +1,16 @@
+# R e RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+*.RDataTmp
+
+# Pasta do Shinyapps.io deployment
+rsconnect/
+
+# Pasta de Relatórios
+Relatorio/
+
+# Outros arquivos de sistema operacional
+.DS_Store
+Thumbs.db
